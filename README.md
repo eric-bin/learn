@@ -1,2 +1,4 @@
-# learn
-notes for learning
+## 开发环境依赖及工具
+
+*	Sublime Text
+*	Markdown
