@@ -11,3 +11,4 @@ Mac 自带Apache的使用
 		</Directory>
 		
 4.	开启／停止apache服务 `sudo apachectl start/restart/stop`
+5.	修改DocumentRoot的文件夹读写权限，防止`403 forbidden`,改为755或者777
